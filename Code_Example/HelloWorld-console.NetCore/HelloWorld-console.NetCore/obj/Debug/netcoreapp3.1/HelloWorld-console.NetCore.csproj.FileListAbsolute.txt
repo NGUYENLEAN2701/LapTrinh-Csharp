@@ -1,0 +1,13 @@
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\bin\Debug\netcoreapp3.1\HelloWorld-console.NetCore.exe
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\bin\Debug\netcoreapp3.1\HelloWorld-console.NetCore.deps.json
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\bin\Debug\netcoreapp3.1\HelloWorld-console.NetCore.runtimeconfig.json
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\bin\Debug\netcoreapp3.1\HelloWorld-console.NetCore.runtimeconfig.dev.json
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\bin\Debug\netcoreapp3.1\HelloWorld-console.NetCore.dll
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\bin\Debug\netcoreapp3.1\HelloWorld-console.NetCore.pdb
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\obj\Debug\netcoreapp3.1\HelloWorld-console.NetCore.csprojAssemblyReference.cache
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\obj\Debug\netcoreapp3.1\HelloWorld-console.NetCore.AssemblyInfoInputs.cache
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\obj\Debug\netcoreapp3.1\HelloWorld-console.NetCore.AssemblyInfo.cs
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\obj\Debug\netcoreapp3.1\HelloWorld-console.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\obj\Debug\netcoreapp3.1\HelloWorld-console.NetCore.dll
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\obj\Debug\netcoreapp3.1\HelloWorld-console.NetCore.pdb
+C:\Users\AnhHong\Desktop\Lập Trình C# - SoloLearn.com\Code_Example\HelloWorld-console.NetCore\HelloWorld-console.NetCore\obj\Debug\netcoreapp3.1\HelloWorld-console.NetCore.genruntimeconfig.cache

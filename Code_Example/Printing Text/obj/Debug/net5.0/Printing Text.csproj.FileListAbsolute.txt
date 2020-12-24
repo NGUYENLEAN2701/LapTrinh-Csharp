@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\bin\Debug\net5.0\Printing Text.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\bin\Debug\net5.0\Printing Text.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\bin\Debug\net5.0\Printing Text.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\bin\Debug\net5.0\Printing Text.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\bin\Debug\net5.0\Printing Text.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\bin\Debug\net5.0\ref\Printing Text.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\bin\Debug\net5.0\Printing Text.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\ref\Printing Text.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Printing Text\obj\Debug\net5.0\Printing Text.genruntimeconfig.cache

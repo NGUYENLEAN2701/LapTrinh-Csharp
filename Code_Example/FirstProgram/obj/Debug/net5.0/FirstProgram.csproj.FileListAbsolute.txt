@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\bin\Debug\net5.0\FirstProgram.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\bin\Debug\net5.0\FirstProgram.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\bin\Debug\net5.0\FirstProgram.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\bin\Debug\net5.0\FirstProgram.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\bin\Debug\net5.0\ref\FirstProgram.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\bin\Debug\net5.0\FirstProgram.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\ref\FirstProgram.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\FirstProgram\obj\Debug\net5.0\FirstProgram.genruntimeconfig.cache

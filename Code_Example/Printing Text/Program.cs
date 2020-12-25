@@ -14,6 +14,9 @@ namespace SoloLearn
             Console.InputEncoding = System.Text.Encoding.Unicode;
             Console.WriteLine("Hello World!");
             Console.WriteLine("Mr Nguyễn Lê An");
+            int x = 10;
+            double y = 20;
+            Console.WriteLine("x = {0}; y = {1}", x, y);
         }
     }
 }

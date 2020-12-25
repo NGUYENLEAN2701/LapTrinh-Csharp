@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\bin\Debug\net5.0\Getting User Input.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\bin\Debug\net5.0\Getting User Input.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\bin\Debug\net5.0\Getting User Input.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\bin\Debug\net5.0\Getting User Input.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\bin\Debug\net5.0\Getting User Input.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\bin\Debug\net5.0\ref\Getting User Input.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\bin\Debug\net5.0\Getting User Input.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\ref\Getting User Input.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Getting User Input\obj\Debug\net5.0\Getting User Input.genruntimeconfig.cache

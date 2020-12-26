@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\bin\Debug\net5.0\Comments.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\bin\Debug\net5.0\Comments.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\bin\Debug\net5.0\Comments.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\bin\Debug\net5.0\Comments.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\bin\Debug\net5.0\Comments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\bin\Debug\net5.0\ref\Comments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\bin\Debug\net5.0\Comments.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\ref\Comments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Comments\obj\Debug\net5.0\Comments.genruntimeconfig.cache

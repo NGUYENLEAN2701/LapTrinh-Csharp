@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\bin\Debug\net5.0\Assignment & Increment Operators.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\bin\Debug\net5.0\Assignment & Increment Operators.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\bin\Debug\net5.0\Assignment & Increment Operators.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\bin\Debug\net5.0\Assignment & Increment Operators.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\bin\Debug\net5.0\Assignment & Increment Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\bin\Debug\net5.0\ref\Assignment & Increment Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\bin\Debug\net5.0\Assignment & Increment Operators.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\ref\Assignment & Increment Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Assignment & Increment Operators\obj\Debug\net5.0\Assignment & Increment Operators.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\bin\Debug\net5.0\Arithmetic Operators.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\bin\Debug\net5.0\Arithmetic Operators.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\bin\Debug\net5.0\Arithmetic Operators.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\bin\Debug\net5.0\Arithmetic Operators.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\bin\Debug\net5.0\Arithmetic Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\bin\Debug\net5.0\ref\Arithmetic Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\bin\Debug\net5.0\Arithmetic Operators.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\ref\Arithmetic Operators.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Arithmetic Operators\obj\Debug\net5.0\Arithmetic Operators.genruntimeconfig.cache

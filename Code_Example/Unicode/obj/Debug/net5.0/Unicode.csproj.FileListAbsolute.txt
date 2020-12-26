@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\bin\Debug\net5.0\Unicode.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\bin\Debug\net5.0\Unicode.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\bin\Debug\net5.0\Unicode.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\bin\Debug\net5.0\Unicode.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\bin\Debug\net5.0\Unicode.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\bin\Debug\net5.0\ref\Unicode.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\bin\Debug\net5.0\Unicode.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\ref\Unicode.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Unicode\obj\Debug\net5.0\Unicode.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\bin\Debug\net5.0\Pass Output.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\bin\Debug\net5.0\Pass Output.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\bin\Debug\net5.0\Pass Output.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\bin\Debug\net5.0\Pass Output.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\bin\Debug\net5.0\Pass Output.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\bin\Debug\net5.0\ref\Pass Output.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\bin\Debug\net5.0\Pass Output.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\ref\Pass Output.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Pass Output\obj\Debug\net5.0\Pass Output.genruntimeconfig.cache

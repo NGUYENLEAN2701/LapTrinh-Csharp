@@ -4,11 +4,15 @@ namespace Test
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Test(int x)
         {
-            int x = 4; int y = 9;
-            x = (y % x != 0) ? y / x : y;
-            Console.WriteLine(x);
+            x = 8;
+        }
+        static void Main()
+        {
+            int a = 5;
+            Test(a);
+            Console.WriteLine(a);
         }
     }
 }

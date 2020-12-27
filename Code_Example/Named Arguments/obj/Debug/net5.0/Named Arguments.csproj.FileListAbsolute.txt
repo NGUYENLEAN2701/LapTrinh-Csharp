@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\bin\Debug\net5.0\Named Arguments.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\bin\Debug\net5.0\Named Arguments.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\bin\Debug\net5.0\Named Arguments.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\bin\Debug\net5.0\Named Arguments.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\bin\Debug\net5.0\Named Arguments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\bin\Debug\net5.0\ref\Named Arguments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\bin\Debug\net5.0\Named Arguments.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\ref\Named Arguments.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Named Arguments\obj\Debug\net5.0\Named Arguments.genruntimeconfig.cache

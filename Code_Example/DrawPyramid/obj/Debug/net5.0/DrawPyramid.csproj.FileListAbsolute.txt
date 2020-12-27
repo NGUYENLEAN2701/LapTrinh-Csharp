@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\bin\Debug\net5.0\DrawPyramid.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\bin\Debug\net5.0\DrawPyramid.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\bin\Debug\net5.0\DrawPyramid.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\bin\Debug\net5.0\DrawPyramid.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\bin\Debug\net5.0\DrawPyramid.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\bin\Debug\net5.0\ref\DrawPyramid.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\bin\Debug\net5.0\DrawPyramid.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\ref\DrawPyramid.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\DrawPyramid\obj\Debug\net5.0\DrawPyramid.genruntimeconfig.cache

@@ -4,15 +4,16 @@ namespace Test
 {
     class Program
     {
-        static void Test(int x)
+        static int Test(out int x, int y = 4)
         {
-            x = 8;
+            x = 6;
+            return x * y;
         }
-        static void Main()
+        static void Main(string[] args)
         {
-            int a = 5;
-            Test(a);
-            Console.WriteLine(a);
+            int a;
+            int z = Test(out a);
+            Console.WriteLine(a + z);
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\bin\Debug\net5.0\Var&Const.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\bin\Debug\net5.0\Var&Const.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\bin\Debug\net5.0\Var&Const.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\bin\Debug\net5.0\Var&Const.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\bin\Debug\net5.0\Var&Const.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\bin\Debug\net5.0\ref\Var&Const.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\bin\Debug\net5.0\Var&Const.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\ref\Var&Const.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Var&Const\obj\Debug\net5.0\Var&Const.genruntimeconfig.cache

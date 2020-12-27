@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\bin\Debug\net5.0\while Loop.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\bin\Debug\net5.0\while Loop.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\bin\Debug\net5.0\while Loop.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\bin\Debug\net5.0\while Loop.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\bin\Debug\net5.0\while Loop.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\bin\Debug\net5.0\ref\while Loop.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\bin\Debug\net5.0\while Loop.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\ref\while Loop.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\while Loop\obj\Debug\net5.0\while Loop.genruntimeconfig.cache

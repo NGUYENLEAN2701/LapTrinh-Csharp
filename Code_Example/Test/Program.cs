@@ -6,12 +6,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            for (int x = 1; x < 8; x++)
-            {
-                if (x > 5)
-                    break;
-                Console.WriteLine(x);
-            }
+            int x = 4; int y = 9;
+            x = (y % x != 0) ? y / x : y;
+            Console.WriteLine(x);
         }
     }
 }

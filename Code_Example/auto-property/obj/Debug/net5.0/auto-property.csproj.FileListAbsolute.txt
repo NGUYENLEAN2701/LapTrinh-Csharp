@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\bin\Debug\net5.0\auto-property.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\bin\Debug\net5.0\auto-property.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\bin\Debug\net5.0\auto-property.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\bin\Debug\net5.0\auto-property.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\bin\Debug\net5.0\auto-property.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\bin\Debug\net5.0\ref\auto-property.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\bin\Debug\net5.0\auto-property.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\ref\auto-property.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\auto-property\obj\Debug\net5.0\auto-property.genruntimeconfig.cache

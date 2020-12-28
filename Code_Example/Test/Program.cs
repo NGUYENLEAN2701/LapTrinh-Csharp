@@ -1,19 +1,26 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Test
 {
     class Program
     {
-        static int Test(out int x, int y = 4)
+        class Dog
         {
-            x = 6;
-            return x * y;
+            public Dog()
+            { Console.WriteLine(1); }
+
+            public Dog(string name)
+            { Console.WriteLine(name); }
         }
         static void Main(string[] args)
         {
-            int a;
-            int z = Test(out a);
-            Console.WriteLine(a + z);
+            Dog d = new Dog("2");
         }
+
     }
+
 }

@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache

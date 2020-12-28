@@ -11,7 +11,7 @@ namespace Example_of_a_Class
         class Person
         {
             int age = 1;
-            string name = "name";
+            public string name = "name";
             public void SayHi()
             {
                 Console.WriteLine("Hi");
@@ -22,6 +22,7 @@ namespace Example_of_a_Class
         static void Main(string[] args)
         {
             Person p1 = new Person();
+            p1.name = "Test!";
             p1.SayHi();
         }
     }

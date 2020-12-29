@@ -15,10 +15,12 @@ namespace Handle_Error
             catch (Exception e)
             {
                 x += 3;
+                Console.WriteLine(e);
             }
             finally
             {
                 x += 4;
+
             }
             Console.WriteLine(x);
         }

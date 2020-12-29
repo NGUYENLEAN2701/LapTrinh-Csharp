@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\bin\Debug\net5.0\Array Methods.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\bin\Debug\net5.0\Array Methods.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\bin\Debug\net5.0\Array Methods.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\bin\Debug\net5.0\Array Methods.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\bin\Debug\net5.0\Array Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\bin\Debug\net5.0\ref\Array Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\bin\Debug\net5.0\Array Methods.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\ref\Array Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Array Methods\obj\Debug\net5.0\Array Methods.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\bin\Debug\net5.0\Generic Methods.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\bin\Debug\net5.0\Generic Methods.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\bin\Debug\net5.0\Generic Methods.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\bin\Debug\net5.0\Generic Methods.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\bin\Debug\net5.0\Generic Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\bin\Debug\net5.0\ref\Generic Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\bin\Debug\net5.0\Generic Methods.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\ref\Generic Methods.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Methods\obj\Debug\net5.0\Generic Methods.genruntimeconfig.cache

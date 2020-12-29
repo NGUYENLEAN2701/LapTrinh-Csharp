@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\bin\Debug\net5.0\Generic Classes.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\bin\Debug\net5.0\Generic Classes.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\bin\Debug\net5.0\Generic Classes.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\bin\Debug\net5.0\Generic Classes.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\bin\Debug\net5.0\Generic Classes.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\bin\Debug\net5.0\ref\Generic Classes.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\bin\Debug\net5.0\Generic Classes.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\ref\Generic Classes.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Generic Classes\obj\Debug\net5.0\Generic Classes.genruntimeconfig.cache

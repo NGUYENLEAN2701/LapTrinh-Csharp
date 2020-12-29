@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\bin\Debug\net5.0\Struct.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\bin\Debug\net5.0\Struct.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\bin\Debug\net5.0\ref\Struct.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\ref\Struct.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache

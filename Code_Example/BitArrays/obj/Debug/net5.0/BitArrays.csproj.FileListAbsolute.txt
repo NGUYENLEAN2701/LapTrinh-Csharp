@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\bin\Debug\net5.0\BitArrays.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\bin\Debug\net5.0\BitArrays.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\bin\Debug\net5.0\BitArrays.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\bin\Debug\net5.0\BitArrays.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\bin\Debug\net5.0\BitArrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\bin\Debug\net5.0\ref\BitArrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\bin\Debug\net5.0\BitArrays.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\ref\BitArrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\BitArrays\obj\Debug\net5.0\BitArrays.genruntimeconfig.cache

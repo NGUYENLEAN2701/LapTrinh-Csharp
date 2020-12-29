@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\bin\Debug\net5.0\Handle Error.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\bin\Debug\net5.0\Handle Error.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\bin\Debug\net5.0\Handle Error.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\bin\Debug\net5.0\Handle Error.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\bin\Debug\net5.0\Handle Error.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\bin\Debug\net5.0\ref\Handle Error.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\bin\Debug\net5.0\Handle Error.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\ref\Handle Error.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Handle Error\obj\Debug\net5.0\Handle Error.genruntimeconfig.cache

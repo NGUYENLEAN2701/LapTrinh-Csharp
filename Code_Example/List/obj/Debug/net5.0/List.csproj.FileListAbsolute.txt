@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\bin\Debug\net5.0\List.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\bin\Debug\net5.0\List.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\bin\Debug\net5.0\List.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\bin\Debug\net5.0\List.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\bin\Debug\net5.0\List.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\bin\Debug\net5.0\ref\List.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\bin\Debug\net5.0\List.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\ref\List.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\List\obj\Debug\net5.0\List.genruntimeconfig.cache

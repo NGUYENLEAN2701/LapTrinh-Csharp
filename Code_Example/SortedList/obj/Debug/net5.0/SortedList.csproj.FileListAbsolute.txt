@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\bin\Debug\net5.0\SortedList.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\bin\Debug\net5.0\SortedList.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\bin\Debug\net5.0\SortedList.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\bin\Debug\net5.0\SortedList.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\bin\Debug\net5.0\SortedList.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\bin\Debug\net5.0\ref\SortedList.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\bin\Debug\net5.0\SortedList.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\ref\SortedList.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\SortedList\obj\Debug\net5.0\SortedList.genruntimeconfig.cache

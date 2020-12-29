@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

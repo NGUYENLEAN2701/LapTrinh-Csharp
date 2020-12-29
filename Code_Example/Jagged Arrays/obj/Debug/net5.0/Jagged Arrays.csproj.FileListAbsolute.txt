@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\bin\Debug\net5.0\Jagged Arrays.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\bin\Debug\net5.0\Jagged Arrays.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\bin\Debug\net5.0\Jagged Arrays.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\bin\Debug\net5.0\Jagged Arrays.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\bin\Debug\net5.0\Jagged Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\bin\Debug\net5.0\ref\Jagged Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\bin\Debug\net5.0\Jagged Arrays.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\ref\Jagged Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Jagged Arrays\obj\Debug\net5.0\Jagged Arrays.genruntimeconfig.cache

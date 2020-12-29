@@ -1,0 +1,16 @@
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.exe
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.deps.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.runtimeconfig.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.runtimeconfig.dev.json
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\bin\Debug\net5.0\ref\Multidimensional Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\bin\Debug\net5.0\Multidimensional Arrays.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.csprojAssemblyReference.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.AssemblyInfo.cs
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\ref\Multidimensional Arrays.dll
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.pdb
+C:\Users\MKC\Desktop\LapTrinh-Csharp\Code_Example\Multidimensional Arrays\obj\Debug\net5.0\Multidimensional Arrays.genruntimeconfig.cache

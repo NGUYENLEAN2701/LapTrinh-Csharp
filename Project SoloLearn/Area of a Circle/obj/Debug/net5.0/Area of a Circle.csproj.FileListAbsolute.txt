@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\bin\Debug\net5.0\Area of a Circle.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\bin\Debug\net5.0\Area of a Circle.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\bin\Debug\net5.0\Area of a Circle.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\bin\Debug\net5.0\Area of a Circle.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\bin\Debug\net5.0\Area of a Circle.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\bin\Debug\net5.0\ref\Area of a Circle.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\bin\Debug\net5.0\Area of a Circle.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\ref\Area of a Circle.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Code_Example\Area of a Circle\obj\Debug\net5.0\Area of a Circle.genruntimeconfig.cache

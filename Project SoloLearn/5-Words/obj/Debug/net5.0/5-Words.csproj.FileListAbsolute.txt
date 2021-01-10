@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\bin\Debug\net5.0\5-Words.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\bin\Debug\net5.0\5-Words.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\bin\Debug\net5.0\5-Words.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\bin\Debug\net5.0\5-Words.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\bin\Debug\net5.0\5-Words.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\bin\Debug\net5.0\ref\5-Words.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\bin\Debug\net5.0\5-Words.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\ref\5-Words.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\5-Words\obj\Debug\net5.0\5-Words.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\bin\Debug\net5.0\Multiple of 3.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\bin\Debug\net5.0\Multiple of 3.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\bin\Debug\net5.0\Multiple of 3.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\bin\Debug\net5.0\Multiple of 3.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\bin\Debug\net5.0\Multiple of 3.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\bin\Debug\net5.0\ref\Multiple of 3.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\bin\Debug\net5.0\Multiple of 3.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\ref\Multiple of 3.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\Multiple of 3\obj\Debug\net5.0\Multiple of 3.genruntimeconfig.cache

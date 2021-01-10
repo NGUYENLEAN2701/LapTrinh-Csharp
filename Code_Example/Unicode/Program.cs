@@ -22,7 +22,7 @@ namespace SoloLearn
                 UseShellExecute = true,
                 Verb = "open"
             };
-            Process.Start(ps);
+            //Process.Start(ps);
         }
     }
 }

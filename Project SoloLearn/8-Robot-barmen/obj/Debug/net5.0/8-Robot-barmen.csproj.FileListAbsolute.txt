@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\bin\Debug\net5.0\8-Robot-barmen.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\bin\Debug\net5.0\8-Robot-barmen.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\bin\Debug\net5.0\8-Robot-barmen.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\bin\Debug\net5.0\8-Robot-barmen.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\bin\Debug\net5.0\8-Robot-barmen.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\bin\Debug\net5.0\ref\8-Robot-barmen.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\bin\Debug\net5.0\8-Robot-barmen.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\ref\8-Robot-barmen.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\8-Robot-barmen\obj\Debug\net5.0\8-Robot-barmen.genruntimeconfig.cache

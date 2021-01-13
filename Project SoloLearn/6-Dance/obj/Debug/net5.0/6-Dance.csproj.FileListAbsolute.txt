@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\bin\Debug\net5.0\6-Dance.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\bin\Debug\net5.0\6-Dance.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\bin\Debug\net5.0\6-Dance.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\bin\Debug\net5.0\6-Dance.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\bin\Debug\net5.0\6-Dance.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\bin\Debug\net5.0\ref\6-Dance.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\bin\Debug\net5.0\6-Dance.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\ref\6-Dance.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Project SoloLearn\6-Dance\obj\Debug\net5.0\6-Dance.genruntimeconfig.cache

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MKC\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj": {}
+    "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MKC\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj": {
+    "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MKC\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj",
         "projectName": "Enums",
-        "projectPath": "C:\\Users\\MKC\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj",
-        "packagesPath": "C:\\Users\\MKC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MKC\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\obj\\",
+        "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\Enums.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Code_Example\\Enums\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MKC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

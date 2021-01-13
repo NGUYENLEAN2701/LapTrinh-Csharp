@@ -32,6 +32,12 @@ namespace Code_Coach_Challenge
         }
 
         //overload the + operator
-
+        public static DancerPoints operator +(DancerPoints a, DancerPoints b)
+        {
+            string NewName = a.name + " & " + b.name;
+            int NewPoint = a.points + b.points;
+            DancerPoints res = new DancerPoints(NewName, NewPoint);
+            return res;
+        }
     }
 }

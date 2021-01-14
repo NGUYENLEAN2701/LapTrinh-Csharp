@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\bin\Debug\net5.0\13-chuỗi đảo.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\bin\Debug\net5.0\13-chuỗi đảo.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\bin\Debug\net5.0\13-chuỗi đảo.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\bin\Debug\net5.0\13-chuỗi đảo.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\bin\Debug\net5.0\13-chuỗi đảo.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\bin\Debug\net5.0\ref\13-chuỗi đảo.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\bin\Debug\net5.0\13-chuỗi đảo.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\ref\13-chuỗi đảo.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\13-chuỗi đảo\obj\Debug\net5.0\13-chuỗi đảo.genruntimeconfig.cache

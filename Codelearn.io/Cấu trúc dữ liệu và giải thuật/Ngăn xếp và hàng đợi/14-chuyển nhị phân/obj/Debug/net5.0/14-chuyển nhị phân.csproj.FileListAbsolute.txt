@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\bin\Debug\net5.0\14-chuyển nhị phân.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\bin\Debug\net5.0\14-chuyển nhị phân.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\bin\Debug\net5.0\14-chuyển nhị phân.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\bin\Debug\net5.0\14-chuyển nhị phân.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\bin\Debug\net5.0\14-chuyển nhị phân.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\bin\Debug\net5.0\ref\14-chuyển nhị phân.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\bin\Debug\net5.0\14-chuyển nhị phân.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\ref\14-chuyển nhị phân.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\14-chuyển nhị phân\obj\Debug\net5.0\14-chuyển nhị phân.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\bin\Debug\net5.0\7-tần số.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\bin\Debug\net5.0\7-tần số.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\bin\Debug\net5.0\7-tần số.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\bin\Debug\net5.0\7-tần số.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\bin\Debug\net5.0\7-tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\bin\Debug\net5.0\ref\7-tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\bin\Debug\net5.0\7-tần số.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\ref\7-tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\7-tần số\obj\Debug\net5.0\7-tần số.genruntimeconfig.cache

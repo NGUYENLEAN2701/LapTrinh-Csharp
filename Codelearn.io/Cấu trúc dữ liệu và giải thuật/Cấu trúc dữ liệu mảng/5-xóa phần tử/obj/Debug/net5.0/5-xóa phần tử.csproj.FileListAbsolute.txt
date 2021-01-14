@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\bin\Debug\net5.0\5-xóa phần tử.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\bin\Debug\net5.0\5-xóa phần tử.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\bin\Debug\net5.0\5-xóa phần tử.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\bin\Debug\net5.0\5-xóa phần tử.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\bin\Debug\net5.0\5-xóa phần tử.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\bin\Debug\net5.0\ref\5-xóa phần tử.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\bin\Debug\net5.0\5-xóa phần tử.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\ref\5-xóa phần tử.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\5-xóa phần tử\obj\Debug\net5.0\5-xóa phần tử.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\bin\Debug\net5.0\2-tinh tong day.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\bin\Debug\net5.0\2-tinh tong day.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\bin\Debug\net5.0\2-tinh tong day.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\bin\Debug\net5.0\2-tinh tong day.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\bin\Debug\net5.0\2-tinh tong day.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\bin\Debug\net5.0\ref\2-tinh tong day.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\bin\Debug\net5.0\2-tinh tong day.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\ref\2-tinh tong day.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\2-tinh tong day\obj\Debug\net5.0\2-tinh tong day.genruntimeconfig.cache

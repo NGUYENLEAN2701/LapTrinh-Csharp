@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\bin\Debug\net5.0\6-in số nguyên tố.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\bin\Debug\net5.0\6-in số nguyên tố.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\bin\Debug\net5.0\6-in số nguyên tố.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\bin\Debug\net5.0\6-in số nguyên tố.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\bin\Debug\net5.0\6-in số nguyên tố.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\bin\Debug\net5.0\ref\6-in số nguyên tố.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\bin\Debug\net5.0\6-in số nguyên tố.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\ref\6-in số nguyên tố.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\6-in số nguyên tố\obj\Debug\net5.0\6-in số nguyên tố.genruntimeconfig.cache

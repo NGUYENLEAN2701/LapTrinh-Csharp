@@ -1,0 +1,4 @@
+câu đúng:
+
+->Số lượng phần tử trong mảng là hữu hạn
+->Tồn tại 2 phần tử cùng giá trị trong cùng một mảng

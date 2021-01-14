@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "10-tổng phần tử mảng 2 chiều/1.0.0": {
+        "runtime": {
+          "10-tổng phần tử mảng 2 chiều.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10-tổng phần tử mảng 2 chiều/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

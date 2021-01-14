@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\bin\Debug\net5.0\10-tổng phần tử mảng 2 chiều.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\bin\Debug\net5.0\10-tổng phần tử mảng 2 chiều.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\bin\Debug\net5.0\10-tổng phần tử mảng 2 chiều.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\bin\Debug\net5.0\10-tổng phần tử mảng 2 chiều.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\bin\Debug\net5.0\10-tổng phần tử mảng 2 chiều.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\bin\Debug\net5.0\ref\10-tổng phần tử mảng 2 chiều.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\bin\Debug\net5.0\10-tổng phần tử mảng 2 chiều.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\ref\10-tổng phần tử mảng 2 chiều.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Cấu trúc dữ liệu mảng\10-tổng phần tử mảng 2 chiều\obj\Debug\net5.0\10-tổng phần tử mảng 2 chiều.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\bin\Debug\net5.0\18-số siêu nguyên tố.exe
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\bin\Debug\net5.0\18-số siêu nguyên tố.deps.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\bin\Debug\net5.0\18-số siêu nguyên tố.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\bin\Debug\net5.0\18-số siêu nguyên tố.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\bin\Debug\net5.0\18-số siêu nguyên tố.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\bin\Debug\net5.0\ref\18-số siêu nguyên tố.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\bin\Debug\net5.0\18-số siêu nguyên tố.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\ref\18-số siêu nguyên tố.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\18-số siêu nguyên tố\obj\Debug\net5.0\18-số siêu nguyên tố.genruntimeconfig.cache

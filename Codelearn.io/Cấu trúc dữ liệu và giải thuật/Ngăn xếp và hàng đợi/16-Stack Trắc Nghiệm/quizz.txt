@@ -1,0 +1,2 @@
+Khi thêm lần lượt các phần tử 1,2,3,4 vào stack thì thứ tự xứ lý các phần tử trong stack là:
+4->3->2->1

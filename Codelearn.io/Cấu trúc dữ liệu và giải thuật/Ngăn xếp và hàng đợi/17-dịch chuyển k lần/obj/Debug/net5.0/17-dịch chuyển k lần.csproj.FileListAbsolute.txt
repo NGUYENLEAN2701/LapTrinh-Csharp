@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\bin\Debug\net5.0\17-dịch chuyển k lần.exe
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\bin\Debug\net5.0\17-dịch chuyển k lần.deps.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\bin\Debug\net5.0\17-dịch chuyển k lần.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\bin\Debug\net5.0\17-dịch chuyển k lần.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\bin\Debug\net5.0\17-dịch chuyển k lần.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\bin\Debug\net5.0\ref\17-dịch chuyển k lần.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\bin\Debug\net5.0\17-dịch chuyển k lần.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\ref\17-dịch chuyển k lần.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\Ngăn xếp và hàng đợi\17-dịch chuyển k lần\obj\Debug\net5.0\17-dịch chuyển k lần.genruntimeconfig.cache

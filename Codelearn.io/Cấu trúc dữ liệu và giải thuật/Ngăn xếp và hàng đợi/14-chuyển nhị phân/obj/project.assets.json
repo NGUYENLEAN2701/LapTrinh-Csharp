@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nguye\\.nuget\\packages\\": {},
+    "C:\\Users\\Dell-Admin\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\14-chuyển nhị phân\\14-chuyển nhị phân.csproj",
+      "projectUniqueName": "C:\\Users\\Dell-Admin\\Desktop\\NGUYENLEAN2701\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\14-chuyển nhị phân\\14-chuyển nhị phân.csproj",
       "projectName": "14-chuyển nhị phân",
-      "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\14-chuyển nhị phân\\14-chuyển nhị phân.csproj",
-      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\14-chuyển nhị phân\\obj\\",
+      "projectPath": "C:\\Users\\Dell-Admin\\Desktop\\NGUYENLEAN2701\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\14-chuyển nhị phân\\14-chuyển nhị phân.csproj",
+      "packagesPath": "C:\\Users\\Dell-Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dell-Admin\\Desktop\\NGUYENLEAN2701\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\14-chuyển nhị phân\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dell-Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

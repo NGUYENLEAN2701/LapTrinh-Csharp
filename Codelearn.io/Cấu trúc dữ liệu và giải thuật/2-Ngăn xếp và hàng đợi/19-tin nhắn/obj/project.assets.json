@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\19-tin nhắn\\19-tin nhắn.csproj",
+      "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\2-Ngăn xếp và hàng đợi\\19-tin nhắn\\19-tin nhắn.csproj",
       "projectName": "19-tin nhắn",
-      "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\19-tin nhắn\\19-tin nhắn.csproj",
+      "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\2-Ngăn xếp và hàng đợi\\19-tin nhắn\\19-tin nhắn.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Ngăn xếp và hàng đợi\\19-tin nhắn\\obj\\",
+      "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\2-Ngăn xếp và hàng đợi\\19-tin nhắn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

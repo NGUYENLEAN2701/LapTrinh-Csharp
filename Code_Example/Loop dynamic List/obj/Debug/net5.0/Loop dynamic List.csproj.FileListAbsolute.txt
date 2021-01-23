@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\bin\Debug\net5.0\Loop dynamic List.exe
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\bin\Debug\net5.0\Loop dynamic List.deps.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\bin\Debug\net5.0\Loop dynamic List.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\bin\Debug\net5.0\Loop dynamic List.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\bin\Debug\net5.0\Loop dynamic List.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\bin\Debug\net5.0\ref\Loop dynamic List.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\bin\Debug\net5.0\Loop dynamic List.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\ref\Loop dynamic List.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Code_Example\Loop dynamic List\obj\Debug\net5.0\Loop dynamic List.genruntimeconfig.cache

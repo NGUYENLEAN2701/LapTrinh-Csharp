@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\bin\Debug\net5.0\21-List C#.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\bin\Debug\net5.0\21-List C#.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\bin\Debug\net5.0\21-List C#.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\bin\Debug\net5.0\21-List C#.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\bin\Debug\net5.0\21-List C#.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\bin\Debug\net5.0\ref\21-List C#.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\bin\Debug\net5.0\21-List C#.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\ref\21-List C#.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\21-List C#\obj\Debug\net5.0\21-List C#.genruntimeconfig.cache

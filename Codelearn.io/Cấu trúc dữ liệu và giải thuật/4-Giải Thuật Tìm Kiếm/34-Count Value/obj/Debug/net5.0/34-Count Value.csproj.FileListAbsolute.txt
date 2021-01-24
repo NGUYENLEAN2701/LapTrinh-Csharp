@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\bin\Debug\net5.0\34-Count Value.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\bin\Debug\net5.0\34-Count Value.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\bin\Debug\net5.0\34-Count Value.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\bin\Debug\net5.0\34-Count Value.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\bin\Debug\net5.0\34-Count Value.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\bin\Debug\net5.0\ref\34-Count Value.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\bin\Debug\net5.0\34-Count Value.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\ref\34-Count Value.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\34-Count Value\obj\Debug\net5.0\34-Count Value.genruntimeconfig.cache

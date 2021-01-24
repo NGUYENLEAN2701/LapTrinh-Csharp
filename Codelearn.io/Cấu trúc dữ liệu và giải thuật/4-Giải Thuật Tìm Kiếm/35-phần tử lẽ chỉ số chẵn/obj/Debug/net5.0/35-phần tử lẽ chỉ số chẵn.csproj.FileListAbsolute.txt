@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\bin\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\bin\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\bin\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\bin\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\bin\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\bin\Debug\net5.0\ref\35-phần tử lẽ chỉ số chẵn.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\bin\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\ref\35-phần tử lẽ chỉ số chẵn.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\35-phần tử lẽ chỉ số chẵn\obj\Debug\net5.0\35-phần tử lẽ chỉ số chẵn.genruntimeconfig.cache

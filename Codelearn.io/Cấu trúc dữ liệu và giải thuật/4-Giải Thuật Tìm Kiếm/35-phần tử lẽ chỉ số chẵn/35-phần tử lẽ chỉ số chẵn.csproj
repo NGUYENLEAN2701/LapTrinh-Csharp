@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_35_phần_tử_lẽ_chỉ_số_chẵn</RootNamespace>
+  </PropertyGroup>
+
+</Project>

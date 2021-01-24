@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "33-Swap_min_Max/1.0.0": {
+        "runtime": {
+          "33-Swap_min_Max.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "33-Swap_min_Max/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

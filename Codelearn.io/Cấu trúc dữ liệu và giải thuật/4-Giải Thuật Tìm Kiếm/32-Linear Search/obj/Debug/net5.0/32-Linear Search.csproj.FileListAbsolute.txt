@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\bin\Debug\net5.0\32-Linear Search.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\bin\Debug\net5.0\32-Linear Search.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\bin\Debug\net5.0\32-Linear Search.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\bin\Debug\net5.0\32-Linear Search.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\bin\Debug\net5.0\32-Linear Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\bin\Debug\net5.0\ref\32-Linear Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\bin\Debug\net5.0\32-Linear Search.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\ref\32-Linear Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\32-Linear Search\obj\Debug\net5.0\32-Linear Search.genruntimeconfig.cache

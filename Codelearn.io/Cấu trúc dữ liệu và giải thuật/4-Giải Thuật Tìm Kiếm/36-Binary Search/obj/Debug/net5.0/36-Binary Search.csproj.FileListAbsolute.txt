@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\bin\Debug\net5.0\36-Binary Search.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\bin\Debug\net5.0\36-Binary Search.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\bin\Debug\net5.0\36-Binary Search.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\bin\Debug\net5.0\36-Binary Search.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\bin\Debug\net5.0\36-Binary Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\bin\Debug\net5.0\ref\36-Binary Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\bin\Debug\net5.0\36-Binary Search.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\ref\36-Binary Search.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\36-Binary Search\obj\Debug\net5.0\36-Binary Search.genruntimeconfig.cache

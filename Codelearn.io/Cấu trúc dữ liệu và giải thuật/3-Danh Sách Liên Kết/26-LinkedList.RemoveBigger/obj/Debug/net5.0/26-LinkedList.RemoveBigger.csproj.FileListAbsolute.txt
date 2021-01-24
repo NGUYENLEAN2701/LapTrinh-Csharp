@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\bin\Debug\net5.0\26-LinkedList.RemoveBigger.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\bin\Debug\net5.0\26-LinkedList.RemoveBigger.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\bin\Debug\net5.0\26-LinkedList.RemoveBigger.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\bin\Debug\net5.0\26-LinkedList.RemoveBigger.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\bin\Debug\net5.0\26-LinkedList.RemoveBigger.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\bin\Debug\net5.0\ref\26-LinkedList.RemoveBigger.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\bin\Debug\net5.0\26-LinkedList.RemoveBigger.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\ref\26-LinkedList.RemoveBigger.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\26-LinkedList.RemoveBigger\obj\Debug\net5.0\26-LinkedList.RemoveBigger.genruntimeconfig.cache

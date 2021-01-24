@@ -1,0 +1,5 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\25-List.change\obj\Debug\net5.0\25-List.change.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\25-List.change\obj\Debug\net5.0\25-List.change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\25-List.change\obj\Debug\net5.0\25-List.change.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\25-List.change\obj\Debug\net5.0\25-List.change.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\25-List.change\obj\Debug\net5.0\25-List.change.csproj.CoreCompileInputs.cache

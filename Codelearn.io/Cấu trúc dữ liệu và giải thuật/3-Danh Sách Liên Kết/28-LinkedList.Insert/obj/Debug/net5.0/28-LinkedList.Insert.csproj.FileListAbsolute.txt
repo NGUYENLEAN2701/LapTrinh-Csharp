@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\bin\Debug\net5.0\28-LinkedList.Insert.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\bin\Debug\net5.0\28-LinkedList.Insert.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\bin\Debug\net5.0\28-LinkedList.Insert.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\bin\Debug\net5.0\28-LinkedList.Insert.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\bin\Debug\net5.0\28-LinkedList.Insert.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\bin\Debug\net5.0\ref\28-LinkedList.Insert.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\bin\Debug\net5.0\28-LinkedList.Insert.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\ref\28-LinkedList.Insert.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\28-LinkedList.Insert\obj\Debug\net5.0\28-LinkedList.Insert.genruntimeconfig.cache

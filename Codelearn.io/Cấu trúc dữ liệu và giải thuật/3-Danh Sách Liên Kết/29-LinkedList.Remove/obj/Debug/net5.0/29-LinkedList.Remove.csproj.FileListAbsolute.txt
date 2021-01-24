@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\bin\Debug\net5.0\29-LinkedList.Remove.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\bin\Debug\net5.0\29-LinkedList.Remove.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\bin\Debug\net5.0\29-LinkedList.Remove.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\bin\Debug\net5.0\29-LinkedList.Remove.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\bin\Debug\net5.0\29-LinkedList.Remove.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\bin\Debug\net5.0\ref\29-LinkedList.Remove.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\bin\Debug\net5.0\29-LinkedList.Remove.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\ref\29-LinkedList.Remove.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\3-Danh Sách Liên Kết\29-LinkedList.Remove\obj\Debug\net5.0\29-LinkedList.Remove.genruntimeconfig.cache

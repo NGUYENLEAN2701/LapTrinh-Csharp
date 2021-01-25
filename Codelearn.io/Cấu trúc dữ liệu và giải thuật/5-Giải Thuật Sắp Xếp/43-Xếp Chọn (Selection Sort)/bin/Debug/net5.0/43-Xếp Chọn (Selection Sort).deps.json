@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "43-Xếp Chọn (Selection Sort)/1.0.0": {
+        "runtime": {
+          "43-Xếp Chọn (Selection Sort).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "43-Xếp Chọn (Selection Sort)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

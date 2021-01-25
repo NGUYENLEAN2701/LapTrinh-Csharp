@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\bin\Debug\net5.0\45-shell sort.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\bin\Debug\net5.0\45-shell sort.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\bin\Debug\net5.0\45-shell sort.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\bin\Debug\net5.0\45-shell sort.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\bin\Debug\net5.0\45-shell sort.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\bin\Debug\net5.0\ref\45-shell sort.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\bin\Debug\net5.0\45-shell sort.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\ref\45-shell sort.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\45-shell sort\obj\Debug\net5.0\45-shell sort.genruntimeconfig.cache

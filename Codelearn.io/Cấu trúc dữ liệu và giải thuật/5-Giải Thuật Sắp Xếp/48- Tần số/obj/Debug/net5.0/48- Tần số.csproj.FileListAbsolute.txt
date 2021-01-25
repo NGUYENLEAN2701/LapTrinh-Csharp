@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\bin\Debug\net5.0\48- Tần số.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\bin\Debug\net5.0\48- Tần số.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\bin\Debug\net5.0\48- Tần số.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\bin\Debug\net5.0\48- Tần số.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\bin\Debug\net5.0\48- Tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\bin\Debug\net5.0\ref\48- Tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\bin\Debug\net5.0\48- Tần số.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\ref\48- Tần số.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\48- Tần số\obj\Debug\net5.0\48- Tần số.genruntimeconfig.cache

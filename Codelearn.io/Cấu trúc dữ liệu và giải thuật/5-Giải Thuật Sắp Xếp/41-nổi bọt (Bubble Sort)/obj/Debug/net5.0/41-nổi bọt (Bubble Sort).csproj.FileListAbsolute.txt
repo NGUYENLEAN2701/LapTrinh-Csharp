@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\bin\Debug\net5.0\41-nổi bọt (Bubble Sort).exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\bin\Debug\net5.0\41-nổi bọt (Bubble Sort).deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\bin\Debug\net5.0\41-nổi bọt (Bubble Sort).runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\bin\Debug\net5.0\41-nổi bọt (Bubble Sort).runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\bin\Debug\net5.0\41-nổi bọt (Bubble Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\bin\Debug\net5.0\ref\41-nổi bọt (Bubble Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\bin\Debug\net5.0\41-nổi bọt (Bubble Sort).pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\ref\41-nổi bọt (Bubble Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\41-nổi bọt (Bubble Sort)\obj\Debug\net5.0\41-nổi bọt (Bubble Sort).genruntimeconfig.cache

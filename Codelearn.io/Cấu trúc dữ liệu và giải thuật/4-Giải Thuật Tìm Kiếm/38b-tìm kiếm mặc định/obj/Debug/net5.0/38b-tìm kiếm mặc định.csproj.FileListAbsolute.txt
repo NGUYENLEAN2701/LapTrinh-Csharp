@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\bin\Debug\net5.0\38b-tìm kiếm mặc định.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\bin\Debug\net5.0\38b-tìm kiếm mặc định.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\bin\Debug\net5.0\38b-tìm kiếm mặc định.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\bin\Debug\net5.0\38b-tìm kiếm mặc định.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\bin\Debug\net5.0\38b-tìm kiếm mặc định.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\bin\Debug\net5.0\ref\38b-tìm kiếm mặc định.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\bin\Debug\net5.0\38b-tìm kiếm mặc định.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\ref\38b-tìm kiếm mặc định.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\4-Giải Thuật Tìm Kiếm\38b-tìm kiếm mặc định\obj\Debug\net5.0\38b-tìm kiếm mặc định.genruntimeconfig.cache

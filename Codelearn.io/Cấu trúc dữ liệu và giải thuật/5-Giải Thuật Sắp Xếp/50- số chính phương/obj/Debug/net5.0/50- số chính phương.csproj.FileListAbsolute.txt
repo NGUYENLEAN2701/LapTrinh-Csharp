@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\bin\Debug\net5.0\50- số chính phương.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\bin\Debug\net5.0\50- số chính phương.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\bin\Debug\net5.0\50- số chính phương.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\bin\Debug\net5.0\50- số chính phương.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\bin\Debug\net5.0\50- số chính phương.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\bin\Debug\net5.0\ref\50- số chính phương.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\bin\Debug\net5.0\50- số chính phương.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\ref\50- số chính phương.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\50- số chính phương\obj\Debug\net5.0\50- số chính phương.genruntimeconfig.cache

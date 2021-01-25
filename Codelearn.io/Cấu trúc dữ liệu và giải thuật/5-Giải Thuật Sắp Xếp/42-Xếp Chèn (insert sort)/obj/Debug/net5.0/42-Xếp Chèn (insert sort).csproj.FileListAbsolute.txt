@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\bin\Debug\net5.0\42-Xếp Chèn (insert sort).exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\bin\Debug\net5.0\42-Xếp Chèn (insert sort).deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\bin\Debug\net5.0\42-Xếp Chèn (insert sort).runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\bin\Debug\net5.0\42-Xếp Chèn (insert sort).runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\bin\Debug\net5.0\42-Xếp Chèn (insert sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\bin\Debug\net5.0\ref\42-Xếp Chèn (insert sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\bin\Debug\net5.0\42-Xếp Chèn (insert sort).pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\ref\42-Xếp Chèn (insert sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\42-Xếp Chèn (insert sort)\obj\Debug\net5.0\42-Xếp Chèn (insert sort).genruntimeconfig.cache

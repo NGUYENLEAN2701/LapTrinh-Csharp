@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "38b-tìm kiếm mặc định/1.0.0": {
+        "runtime": {
+          "38b-tìm kiếm mặc định.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "38b-tìm kiếm mặc định/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+tìm kiếm nhị phân chỉ dùng được cho dãy đã sắp xếp: 
+-> arr=[1,2,4,5,6,7]
+-> arr=[6,6,5,3,2]
+
+
+vị trí đầu tiên của x trong dãy a được sắp xếp giảm dần...
+-> tìm kiếm nhị phân - Binary Search

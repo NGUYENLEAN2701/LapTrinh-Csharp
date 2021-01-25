@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\bin\Debug\net5.0\43-Xếp Chọn (Selection Sort).exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\bin\Debug\net5.0\43-Xếp Chọn (Selection Sort).deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\bin\Debug\net5.0\43-Xếp Chọn (Selection Sort).runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\bin\Debug\net5.0\43-Xếp Chọn (Selection Sort).runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\bin\Debug\net5.0\43-Xếp Chọn (Selection Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\bin\Debug\net5.0\ref\43-Xếp Chọn (Selection Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\bin\Debug\net5.0\43-Xếp Chọn (Selection Sort).pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\ref\43-Xếp Chọn (Selection Sort).dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\5-Giải Thuật Sắp Xếp\43-Xếp Chọn (Selection Sort)\obj\Debug\net5.0\43-Xếp Chọn (Selection Sort).genruntimeconfig.cache

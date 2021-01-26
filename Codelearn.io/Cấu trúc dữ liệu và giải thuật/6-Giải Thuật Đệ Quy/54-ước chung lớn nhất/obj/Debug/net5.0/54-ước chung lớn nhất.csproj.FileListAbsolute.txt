@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\bin\Debug\net5.0\54-ước chung lớn nhất.exe
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\bin\Debug\net5.0\54-ước chung lớn nhất.deps.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\bin\Debug\net5.0\54-ước chung lớn nhất.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\bin\Debug\net5.0\54-ước chung lớn nhất.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\bin\Debug\net5.0\54-ước chung lớn nhất.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\bin\Debug\net5.0\ref\54-ước chung lớn nhất.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\bin\Debug\net5.0\54-ước chung lớn nhất.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\ref\54-ước chung lớn nhất.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\54-ước chung lớn nhất\obj\Debug\net5.0\54-ước chung lớn nhất.genruntimeconfig.cache

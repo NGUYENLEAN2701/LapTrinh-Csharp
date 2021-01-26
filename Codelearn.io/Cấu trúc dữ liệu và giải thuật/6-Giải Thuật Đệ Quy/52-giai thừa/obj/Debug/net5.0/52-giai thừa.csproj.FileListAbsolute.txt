@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\bin\Debug\net5.0\52-giai thừa.exe
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\bin\Debug\net5.0\52-giai thừa.deps.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\bin\Debug\net5.0\52-giai thừa.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\bin\Debug\net5.0\52-giai thừa.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\bin\Debug\net5.0\52-giai thừa.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\bin\Debug\net5.0\ref\52-giai thừa.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\bin\Debug\net5.0\52-giai thừa.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\ref\52-giai thừa.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\52-giai thừa\obj\Debug\net5.0\52-giai thừa.genruntimeconfig.cache

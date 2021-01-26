@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\bin\Debug\net5.0\53-tính mũ.exe
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\bin\Debug\net5.0\53-tính mũ.deps.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\bin\Debug\net5.0\53-tính mũ.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\bin\Debug\net5.0\53-tính mũ.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\bin\Debug\net5.0\53-tính mũ.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\bin\Debug\net5.0\ref\53-tính mũ.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\bin\Debug\net5.0\53-tính mũ.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\ref\53-tính mũ.dll
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.pdb
+C:\Users\Dell-Admin\Desktop\NGUYENLEAN2701\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\53-tính mũ\obj\Debug\net5.0\53-tính mũ.genruntimeconfig.cache

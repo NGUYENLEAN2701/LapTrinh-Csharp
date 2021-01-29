@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\bin\Debug\net5.0\56-gameGuessNumber.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\bin\Debug\net5.0\56-gameGuessNumber.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\bin\Debug\net5.0\56-gameGuessNumber.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\bin\Debug\net5.0\56-gameGuessNumber.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\bin\Debug\net5.0\56-gameGuessNumber.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\bin\Debug\net5.0\ref\56-gameGuessNumber.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\bin\Debug\net5.0\56-gameGuessNumber.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\ref\56-gameGuessNumber.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\56-gameGuessNumber\obj\Debug\net5.0\56-gameGuessNumber.genruntimeconfig.cache

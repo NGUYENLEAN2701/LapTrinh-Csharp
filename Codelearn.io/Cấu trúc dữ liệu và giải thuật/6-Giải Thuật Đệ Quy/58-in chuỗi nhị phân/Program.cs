@@ -4,15 +4,21 @@ namespace _58_in_chuỗi_nhị_phân
 {
     class Program
     {
-        static void chuoinhiphan(int n)
+        static void chuoinhiphan(int n, string s)
         {
-            string binary = Convert.ToString(n, 2);
-            Console.Write("{0} ", binary);
+            if (n == 0) Console.Write("{0} ", s);
+            else
+            {
+                for (int i = 0; i <= 1; i++)
+                {
+                    chuoinhiphan(n - 1, s + (char)(i + '0'));
+                }
+            }
         }
         static void Main(string[] args)
         {
             int n = Convert.ToInt32(Console.ReadLine());
-            
+            chuoinhiphan(n, "");
         }
     }
 }

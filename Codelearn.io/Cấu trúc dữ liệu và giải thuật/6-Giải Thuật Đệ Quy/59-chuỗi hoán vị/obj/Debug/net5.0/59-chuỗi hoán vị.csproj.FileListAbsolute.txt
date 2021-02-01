@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\bin\Debug\net5.0\59-chuỗi hoán vị.exe
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\bin\Debug\net5.0\59-chuỗi hoán vị.deps.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\bin\Debug\net5.0\59-chuỗi hoán vị.runtimeconfig.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\bin\Debug\net5.0\59-chuỗi hoán vị.runtimeconfig.dev.json
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\bin\Debug\net5.0\59-chuỗi hoán vị.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\bin\Debug\net5.0\ref\59-chuỗi hoán vị.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\bin\Debug\net5.0\59-chuỗi hoán vị.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\ref\59-chuỗi hoán vị.dll
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.pdb
+C:\Users\nguye\OneDrive\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\6-Giải Thuật Đệ Quy\59-chuỗi hoán vị\obj\Debug\net5.0\59-chuỗi hoán vị.genruntimeconfig.cache

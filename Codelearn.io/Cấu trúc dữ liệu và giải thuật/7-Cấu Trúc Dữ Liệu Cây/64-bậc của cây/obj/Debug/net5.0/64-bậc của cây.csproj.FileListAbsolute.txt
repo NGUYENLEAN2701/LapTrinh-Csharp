@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\bin\Debug\net5.0\64-bậc của cây.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\bin\Debug\net5.0\64-bậc của cây.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\bin\Debug\net5.0\64-bậc của cây.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\bin\Debug\net5.0\64-bậc của cây.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\bin\Debug\net5.0\64-bậc của cây.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\bin\Debug\net5.0\ref\64-bậc của cây.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\bin\Debug\net5.0\64-bậc của cây.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\ref\64-bậc của cây.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\64-bậc của cây\obj\Debug\net5.0\64-bậc của cây.genruntimeconfig.cache

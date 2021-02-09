@@ -1,0 +1,16 @@
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\bin\Debug\net5.0\63b-đếm lá.exe
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\bin\Debug\net5.0\63b-đếm lá.deps.json
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\bin\Debug\net5.0\63b-đếm lá.runtimeconfig.json
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\bin\Debug\net5.0\63b-đếm lá.runtimeconfig.dev.json
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\bin\Debug\net5.0\63b-đếm lá.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\bin\Debug\net5.0\ref\63b-đếm lá.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\bin\Debug\net5.0\63b-đếm lá.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.csprojAssemblyReference.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.AssemblyInfoInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.AssemblyInfo.cs
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.csproj.CoreCompileInputs.cache
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\ref\63b-đếm lá.dll
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.pdb
+C:\Users\Dell-Admin\Desktop\LapTrinh-Csharp\Codelearn.io\Cấu trúc dữ liệu và giải thuật\7-Cấu Trúc Dữ Liệu Cây\63b-đếm lá\obj\Debug\net5.0\63b-đếm lá.genruntimeconfig.cache

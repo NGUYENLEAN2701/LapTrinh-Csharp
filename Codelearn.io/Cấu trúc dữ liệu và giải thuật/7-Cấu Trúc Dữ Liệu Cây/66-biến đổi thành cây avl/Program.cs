@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _65_kiểm_tra_cây_avl
+namespace _66_biến_đổi_thành_cây_avl
 {
     class Node
     {
@@ -45,13 +45,23 @@ namespace _65_kiểm_tra_cây_avl
             if (Math.Abs(treeLevel(node.left) - treeLevel(node.right)) > 1) return false;
             return (checkAvl(node.left) && checkAvl(node.right));
         }
+        static void printTree(Node node)
+        {
+            if (node != null)
+            {
+                printTree(node.left);
+                Console.Write(node.key + " ");
+                printTree(node.right);
+            }
+        }
         static void Main(string[] args)
         {
             Node root = null;
             int n = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < n; i++)
                 root = insert(root, Convert.ToInt32(Console.ReadLine()));
-            Console.Write(checkAvl(root));
+            Console.Write(checkAvl(root) + " ");
+            printTree(root);
         }
     }
 }

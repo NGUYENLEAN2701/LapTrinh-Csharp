@@ -33,10 +33,7 @@ namespace _64_bậc_của_cây
             }
             return node;
         }
-        static bool isLeafNode(Node node)
-        {
-            return (node.left == null && node.right == null);
-        }
+
 
         static int treeLevel(Node node)
         {

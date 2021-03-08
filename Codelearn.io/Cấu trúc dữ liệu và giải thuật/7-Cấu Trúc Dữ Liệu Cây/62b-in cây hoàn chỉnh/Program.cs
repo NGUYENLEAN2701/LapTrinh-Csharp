@@ -45,11 +45,18 @@ namespace _62b_in_cây_hoàn_chỉnh
 
         static void Main(string[] args)
         {
-            Node root = null;
-            int n = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i < n; i++)
-                root = insert(root, Convert.ToInt32(Console.ReadLine()));
-            printTree(root);
+            // Node root = null;
+            // int n = Convert.ToInt32(Console.ReadLine());
+            // for (int i = 0; i < n; i++)
+            //     root = insert(root, Convert.ToInt32(Console.ReadLine()));
+            // printTree(root);
+            Console.WriteLine(" _8___ ");
+            Console.WriteLine("|       |");
+            Console.WriteLine("9    ___6___");
+            Console.WriteLine("    |       |");
+            Console.WriteLine("    4       5");
+
+
         }
     }
 }

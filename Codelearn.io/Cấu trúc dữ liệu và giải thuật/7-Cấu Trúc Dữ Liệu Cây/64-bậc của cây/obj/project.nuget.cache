@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "19mGhQZhrod/IXunm6LUgoWfnkl+tyVnBP18O7+AXkXHcovQidNNG4/4qu2ABZ1568Rcut8Zpdu9P0WvB9QU1A==",
+  "dgSpecHash": "rxYuzE7BEKRYnRr0KKned51jYEA5b3X2429W4yypmxIlhnW/OWbwrOvYckAeOTmLS1KC1z/uIAubgluofmHeZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\7-Cấu Trúc Dữ Liệu Cây\\64-bậc của cây\\64-bậc của cây.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell-Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

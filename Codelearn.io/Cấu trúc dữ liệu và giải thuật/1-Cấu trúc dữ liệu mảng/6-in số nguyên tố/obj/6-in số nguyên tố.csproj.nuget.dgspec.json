@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj": {}
+    "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\1-Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj": {
+    "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\1-Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj",
+        "projectUniqueName": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\1-Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj",
         "projectName": "6-in số nguyên tố",
-        "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj",
-        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\obj\\",
+        "projectPath": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\1-Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj",
+        "packagesPath": "C:\\Users\\Dell-Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\1-Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Dell-Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -53,12 +53,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

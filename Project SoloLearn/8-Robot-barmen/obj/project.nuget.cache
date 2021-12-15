@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3M2FW6mqv4ALKQ/uEdjkl0Dy1EKii4W3BSEm7Ld7FKGd5Byv8FVZO0jAT/mN7GUNEdLJsodewSGDyZcQGA2VRg==",
+  "dgSpecHash": "ugymkYFXda5cRmlga+HRaRcop2tmbSH/1132911LO0XxnXS9y3ue0JsDDjW3Dzr26KHbhmHM/tZB2ZMHcSB9oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Project SoloLearn\\8-Robot-barmen\\8-Robot-barmen.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Project SoloLearn\\8-Robot-barmen\\8-Robot-barmen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell-Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

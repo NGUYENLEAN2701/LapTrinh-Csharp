@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C6kdnAQssZ8xiLntQoXdriXg33dqnbSHsoQBR8xj9z9uM3A6gy9m2L1MoZi6681chxmUetwczF1YzRT6tL+3XQ==",
+  "dgSpecHash": "oKzVuqE3ob4K+Pa19OSt5VZJBLP3/VEIGgE+1riiCh/axG1Wsr3xtIo/3GIlRILV+11u6mM+TGcUTqdFGyO2DQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Dell-Admin\\Desktop\\LapTrinh-Csharp\\Codelearn.io\\Cấu trúc dữ liệu và giải thuật\\1-Cấu trúc dữ liệu mảng\\6-in số nguyên tố\\6-in số nguyên tố.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell-Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
